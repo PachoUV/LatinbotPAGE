@@ -1,0 +1,2 @@
+# LatinbotPAGE
+Página LatinBot
